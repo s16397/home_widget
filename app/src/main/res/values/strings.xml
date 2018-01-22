@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeWidget</string>
+    <string name="appwidget_text">Actions</string>
+    <string name="add_widget">Add widget</string>
+    <string name="web_button_text">WEB</string>
+    <string name="image_btn_text">IMAGE</string>
+    <string name="play_button_text">&gt;</string>
+    <string name="pause_button_text">||</string>
+    <string name="prev_button_text">&lt;&lt;</string>
+    <string name="next_button_text">&gt;&gt;</string>
+</resources>
